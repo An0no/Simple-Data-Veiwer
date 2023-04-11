@@ -1,7 +1,7 @@
 # Simple Data Viewer
-## This is a simple PHP application that generates an HTML page with a Bar and Line graph using data from a text file named data.txt.
+This is a simple PHP application that generates an HTML page with a Bar and Line graph using data from a text file named data.txt.
 
-Usage
+## Usage
 To use this application, you need to have a web server installed on your local machine or a remote server.
 
 Download or clone the repository to your local machine or server.
@@ -12,5 +12,5 @@ You should see a page displaying a bar and line graph with the data from the dat
 Requirements
 This application requires a web server with PHP installed.
 
-License
+## License
 This application is released under the MIT License.
